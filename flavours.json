@@ -1,0 +1,9 @@
+{
+    "flavours":	[
+        {
+            "name":	    "Base",
+            "description":  "Base package intallation",
+            "icon":         "http://tbd"
+        }
+    ]
+}

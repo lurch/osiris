@@ -1,4 +1,0 @@
-osiris
-======
-
-OSIRIS files
