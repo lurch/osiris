@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # NOOBS partition setup script for Arch Linux ARM
+#  - part1 == boot partition (FAT), part2 == root partitions (ext4)
 #  - example usage:
 #    ./partition_setup.sh part1=/dev/mmcblk0p7 id1=LABEL=root part2=/dev/mmcblk0p8 id2=UUID=550e8400-e29b-41d4-a716-446655440000
 
