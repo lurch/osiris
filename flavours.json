@@ -1,9 +1,0 @@
-{
-    "flavours":	[
-        {
-            "name":         "Base",
-            "description":  "Base package intallation",
-            "icon":         "http://archlinuxarm.org/builder/rpi/archlinuxarm-40-trans.png"
-        }
-    ]
-}
