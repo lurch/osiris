@@ -1,7 +1,7 @@
 {
     "name":	    "Arch Linux ARM",
-    "version":	    "20130808",
-    "release_date": "20130808",
+    "version":	    "20130813",
+    "release_date": "20130813",
     "kernel":	    "3.6",
     "description":  "An Arch Linux port for ARM devices"
 }
