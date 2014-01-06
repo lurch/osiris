@@ -1,9 +1,9 @@
 OSIRIS files
 ======
 
-Boot tarball: http://archlinuxarm.org/builder/rpi/boot.tar.gz
+Boot tarball: http://archlinuxarm.org/os/rpi/boot.tar.gz
 
-Root tarball: http://archlinuxarm.org/builder/rpi/root.tar.gz
+Root tarball: http://archlinuxarm.org/os/rpi/root.tar.gz
 
 Marketing tarball: http://archlinuxarm.org/builder/rpi/marketing.tar
 
