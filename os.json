@@ -1,7 +1,10 @@
 {
     "name":	    "Arch Linux ARM",
+    "url":          "http://archlinuxarm.org/platforms/armv6/raspberry-pi",
     "version":	    "20140501",
-    "release_date": "20140501",
+    "release_date": "2014-05-01",
     "kernel":	    "3.10",
-    "description":  "An Arch Linux port for ARM devices"
+    "description":  "An Arch Linux port for ARM devices",
+    "username":     "root",
+    "password":     "root"
 }
